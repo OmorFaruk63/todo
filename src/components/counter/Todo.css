@@ -1,0 +1,30 @@
+
+.todo-container {
+ max-width: 400px;
+ margin: 50px auto;
+ background-color: rgba(0, 255, 255, 0.597);
+ padding: 20px;
+ border-radius: 20px;
+}
+.todo-container h1{
+text-align: center;
+}
+
+.todo-container input{
+ width: 80%;
+ padding: 5px;
+ border-radius: 5px 0px 0px 5px;
+ border: none;
+}
+.todo-container button{
+ padding: 5px;
+ border-radius: 0px 5px 5px 0px;
+ border: none;
+ cursor: pointer;
+}
+
+.todo-list {
+ list-style: none;
+ padding: 0;
+}
+
